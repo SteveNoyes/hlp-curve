@@ -1,7 +1,4 @@
-/* - Mobile: 375px
-- Desktop: 1440px */
-
-/* Colors */
+/* Desktop: 1440px */
 
 :root {
   /* Primary */
@@ -13,18 +10,10 @@
 --very-pale-blue: hsl(207, 100%, 98%);
 }
 
-/* Typography */
-
 /* Headings */
-
 /* - Family: [Poppins](https://fonts.google.com/specimen/Poppins)
 - Weights: 700 */
 
 /* Body */
-
 /* - Family: [Open Sans](https://fonts.google.com/specimen/Open+Sans)
 - Weights: 400, 600, 700 */
-
-
-/* Icons
-- [Font Awesome](https://fontawesome.com/) */
